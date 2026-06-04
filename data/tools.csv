@@ -1,0 +1,13 @@
+tool_id,name,category,status,months_since_launch,studios_installed,active_studios_30d,retention_week4_pct,deploys_per_active_studio_mo,support_tickets_30d,csat_1to5,infra_cost_usd_mo
+T01,ArcaneArt,Art (image/concept gen),live,8,95,28,22,6,140,2.9,4200
+T02,EchoVoice,Audio (AI voice/VO),live,5,42,38,81,34,9,4.7,1100
+T03,LoreWeaver,Narrative (dialogue gen),live,6,51,33,64,18,22,4.2,900
+T04,PixelForge,Art (sprite upscaler),live,7,60,26,47,9,31,3.8,700
+T05,BugHound,QA (AI test-gen),beta,3,18,16,78,41,6,4.6,500
+T06,ScriptSmith,Code (boilerplate gen),live,9,70,34,49,12,40,3.9,1300
+T07,SoundScape,Audio (ambient music),live,7,38,17,45,8,14,3.9,600
+T08,MotionMage,Art (animation gen),live,6,22,4,18,3,19,3.1,1500
+T09,BalanceBot,Design (balance sim),beta,2,9,7,70,15,3,4.4,300
+T10,TileMancer,Art (tilemap/level gen),live,8,31,6,19,4,28,3.0,800
+T11,VoxModeler,Art (3D/voxel gen),live,5,27,12,41,7,11,3.7,650
+T12,QuestGen,Narrative (quest gen),live,10,14,2,12,2,8,2.8,400

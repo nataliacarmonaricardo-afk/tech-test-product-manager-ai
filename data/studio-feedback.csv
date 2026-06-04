@@ -1,0 +1,16 @@
+studio,tool_id,sentiment,quote
+Hollowforge Games,T01,negative,ArcaneArt is slow and the outputs drift between runs — we stopped trusting it for production art.
+Saltmarsh Interactive,T01,negative,"Great demo, but it broke our asset pipeline twice. Support was swamped."
+Twin Hearth Studios,T01,neutral,We installed ArcaneArt early but barely use it now; it doesn't know our Hollow Crown art bible.
+Twin Hearth Studios,T02,positive,EchoVoice is the one tool our whole team uses every sprint — it saved us weeks of placeholder VO.
+Ninefold Studio,T02,positive,"EchoVoice is incredible. Only ask: give us more languages, our players are global."
+Saltmarsh Interactive,T02,positive,We run EchoVoice on every build. Wish discovery was better — we found it by accident.
+Ninefold Studio,T05,positive,BugHound caught regressions our QA missed. Please ship a CI integration so it runs on every PR.
+Hollowforge Games,T05,positive,BugHound is still beta but it's already part of our workflow.
+Greywater Games,T08,negative,MotionMage broke after an update and we moved to an external tool. Haven't been back.
+Saltmarsh Interactive,T10,negative,TileMancer never quite worked for our level style; we gave up on it.
+Greywater Games,T12,negative,QuestGen feels abandoned — outputs are low quality and it's slow.
+Twin Hearth Studios,T03,neutral,We need a model that actually knows Hollow Crown lore — can you fine-tune one just for us? This is our top ask.
+Ninefold Studio,__platform__,negative,Every tool has its own setup and login. Getting from 'installed' to actually using something takes a day.
+Greywater Games,__platform__,negative,I can't tell which tools are new or which my team should try. The storefront is just a wall of cards.
+Hollowforge Games,T06,neutral,"ScriptSmith is fine and reliable, nothing exciting. We use it occasionally."

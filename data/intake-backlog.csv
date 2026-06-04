@@ -1,0 +1,10 @@
+request_id,title,type,source,reach_studios,impact_0_25to3,confidence_pct,effort_person_weeks,notes
+R01,Shared deploy + auth SDK: true one-click install→activate across the catalog,platform capability,Platform eng (data-driven),120,2.0,80,6,Today every tool reimplements install/auth; setup friction is the #1 churn driver between install and first deploy.
+R02,EchoVoice multi-language + accent expansion,tool investment,EchoVoice team + 7 studios,42,2.0,90,4,Most-loved tool; studios explicitly asking for non-English VO. Double-down on a proven winner.
+R03,BugHound GA + CI/CD integration (graduate from beta),tool investment,BugHound team,60,2.0,70,5,Beta retention is top-tier; demand from studios on waitlist. Reach is estimated post-GA.
+R04,"Storefront search & discovery revamp (filters, 'new', recommendations)",platform capability,Multiple studios,120,1.0,70,5,Studios say they can't tell what's new or find the right tool; hurts reach for newer tools.
+R05,ArcaneArt reliability + performance overhaul,tool investment,Support escalations,95,1.0,60,7,Huge reach but breaks builds; ticket + infra sink. Fix-or-reframe decision.
+R06,New tool: ShaderSmith (AI shader generation),new tool,Internal idea,35,1.0,50,8,"Plausible demand, no validation yet."
+R07,Bespoke Hollow Crown lore fine-tune for Twin Hearth Studios,new tool,"Twin Hearth Studios (top account, exec ask)",1,3.0,80,8,"Loudest single request, from the biggest studio. Huge value to ONE account, near-zero reuse."
+R08,Per-studio usage analytics dashboard,platform capability,Multiple studios,120,0.5,80,4,Nice-to-have transparency; modest impact on adoption.
+R09,New tool: CutsceneDirector (AI cinematic gen),new tool,Internal idea,25,2.0,40,10,Exciting but unproven and expensive to build.
